@@ -1,0 +1,10 @@
+{
+	"experimentalTernaries": true,
+	"semi": false,
+	"useTabs": true,
+	"singleQuote": true,
+	"jsxSingleQuote": true,
+	"trailingComma": "all",
+	"arrowParens": "avoid",
+	"proseWrap": "always"
+}
